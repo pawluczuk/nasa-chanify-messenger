@@ -10,3 +10,10 @@ Set up:
 * Lambda function - invoked every day at 10am 
 * Lambda function fetches a new photo of the day via NASA API
 * Notification is sent to mobile device with NASA photo of the day link and description
+
+### Screenshots
+
+![notification](notification.jpg)
+
+![message](message.jpg)
+
